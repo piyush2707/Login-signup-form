@@ -1,2 +1,10 @@
-# Weather UI Project ☁️
-A simple, responsive weather interface built with HTML and CSS. Designed to showcase clean UI components and mobile-first design.
+# Login and Signup Form
+
+A simple and responsive login/signup UI design using HTML and CSS.
+
+## 🔥 Features
+- Clean and modern UI
+- Responsive layout for mobile and desktop
+- Toggle between Login and Signup forms
+
+## 🚀 Demo
